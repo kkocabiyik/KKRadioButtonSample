@@ -3,7 +3,7 @@
 //  Rovler
 //
 //  Created by KEMAL KOCABIYIK on 5/21/12.
-//  Copyright (c) 2012. All rights reserved.
+//  Copyright (c) 2013. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
@@ -64,7 +64,7 @@
 
 -(id)initWithFrame:(CGRect)frame items:(NSArray *) textItems selectionType:(RadioButtonSelectionType) t selectedIndexes:(NSMutableArray *) ar;
 
-/*REFRESHES THE LAYOUT*/
+/*REFRESH THE LAYOUT*/
 -(void) refreshLayout;
 
 @end
