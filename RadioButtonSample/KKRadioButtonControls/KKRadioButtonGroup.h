@@ -64,7 +64,7 @@
 
 -(id)initWithFrame:(CGRect)frame items:(NSArray *) textItems selectionType:(RadioButtonSelectionType) t selectedIndexes:(NSMutableArray *) ar;
 
-/*REFRESH THE LAYOUT*/
+/*REFRESHES THE LAYOUT*/
 -(void) refreshLayout;
 
 @end
